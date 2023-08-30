@@ -1,0 +1,9 @@
+1. Data
+2. Data-base
+3. ER diagram
+4. Normalization
+5. Denormalisation
+6. Case study on ER diagram
+7. Case stuudy on normalisation
+8. Dimension modeling
+9. SCD
