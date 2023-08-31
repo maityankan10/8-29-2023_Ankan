@@ -1,0 +1,15 @@
+BIG DATA - Big data primarily refers to data sets that are too large or complex to be dealt with by traditional data-processing application software.
+
+BATCH PROCESSING - Batch processing is a method of running software programs called jobs in batches automatically.
+ 
+STREAM PROCESSING - Stream Processing is a Big data technology. It is used to query continuous data stream and detect conditions, quickly, within a small time period from the time of receiving the data. 
+
+DATA WARE HOUSE - A Data Warehouse is separate from DBMS, it stores a huge amount of data, which is typically collected from multiple heterogeneous sources like files, DBMS, etc. The goal is to produce statistical results that may help in decision makings. 
+
+DATA LAKE - A data lake is a system or repository of data stored in its natural/raw format, usually object blobs or files. 
+
+LAKEHOUSE - A lakehouse is a new, open architecture that combines the best elements of data lakes and data warehouses.
+
+AZURE FUNDAMENTALS - 
+
+RESOURCE GROUPS - A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
