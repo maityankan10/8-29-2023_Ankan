@@ -1,0 +1,15 @@
+Introduction to Structured Query Language (SQL)
+Schemas
+Data Definition Language and its commands:
+CREATE, DROP, ALTER, TRUNCATE
+Data Manipulation Language and its commands:
+UPDATE, DELETE, INSERT
+Data Control Language and its commands:
+GRANT, REVOKE
+Constraints
+ER Modelling
+Order of Execution in SQL
+Filtering query
+Grouping data - using Having clause
+Activity – Hands on experience with SQL queries
+
