@@ -1,0 +1,17 @@
+Introduction to storage account
+Differnet redundancy options for storage account
+	- local redundancy storage
+	- Zone redundancy storage
+	- Geo redundancy storage
+	- GeoZone redundancy sotrage
+Read Access/ Read Replicas in Geo and Geo zone redudant
+Fallover conditions
+Cross tenant application
+Access Tier
+	- Hot
+	- Cool
+Overview of blob storage and gen2 storage
+Azure file share
+Azure tables
+Checking pricing calculator
+Create static website
