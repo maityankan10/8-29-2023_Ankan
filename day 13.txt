@@ -1,0 +1,31 @@
+make a gen2(enable hierarchial namespace) storage account
+make a container
+add a dummy file
+SAS(shared access signature)- access for a particular amount of time eg 1 hour ; timebounded
+key vault
+secrets
+acccess control or IAM identity access management 
+ADF-azure data factory
+components
+pipeline
+activities
+dataset
+linked services
+integration runtime
+data flow
+local machine->drive->object
+IR        LS    dataset
+IR types
+    ->push
+    ->pull
+azure auto resolve
+self hosted
+azure ssis->sql server integration system for existing ssis package
+in case of a virtual network self hosted IR would be useful
+
+ 
+
+IR->azure cloud
+LS->storage account
+DS->no of tables
+parameters
