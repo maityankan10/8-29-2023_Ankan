@@ -1,0 +1,12 @@
+1. Create data Factory
+2. Activities in Pipeline :
+3. String, Boolean, Array and Integer activities in Pipelines
+4. Execute pipeline activity
+5. SSIS package (Azure SSIS IR - required for this package)
+6. Get Metadata Activity
+7. Copy Data Activity Implementation
+8. Parameter Concept Implementation
+9. Triggers
+10. Get Metadata Activity
+11. If-Else Condition for Get Metadata in pipelines.
+12. For Each loop has context menuComposeThanksLooks goodLet me checkParagraph
