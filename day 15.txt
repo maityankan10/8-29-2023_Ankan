@@ -1,0 +1,4 @@
+Azure web acticvity
+Working with JSON files
+Executing For-each loop
+Copying tables from one container to a different container
