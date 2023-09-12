@@ -1,0 +1,8 @@
+1. Azure Data Factory
+2. Azure Synapse Analytics
+3. Azure spark
+4. 3 types of nodes distributions - Hashing, Round robin, 
+5. Dedicated pools and serverless
+6. CTE - Common Table Expression
+7. Partitoning
+8. Data Integration Unit
